@@ -26,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B1C8C9912C8E420600D07E66 /* CMakeLists.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
 		B1E507552C60041A003880D6 /* Class_Hierarchy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Class_Hierarchy; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1E507582C60041A003880D6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B1E5075F2C600535003880D6 /* Figure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Figure.cpp; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 				B1E507632C600552003880D6 /* Triangle.hpp */,
 				B1E507712C6005AF003880D6 /* Quadrangle.cpp */,
 				B1E507722C6005AF003880D6 /* Quadrangle.hpp */,
+				B1C8C9912C8E420600D07E66 /* CMakeLists.txt */,
 			);
 			path = Class_Hierarchy;
 			sourceTree = "<group>";
